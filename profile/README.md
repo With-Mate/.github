@@ -1,5 +1,4 @@
 # 📢 Introduction 
----
  WithMate is a 'journey record' site that allows you to focus on
 what you feel and learn in the 'process' of progressing your goals.
 It differs from the goal management app on the market, which
@@ -15,26 +14,15 @@ valuable records with your mate.
 Share the value of the journey, convey positive inspiration,
 and WithMate will make your journey more meaningful.
 Record and share your journey together with WithMate!
----
-#❗Execution Method
----
+# ❗Execution Method
 ### vite 프로그램 
----
 # 📽 Demo Video Link
----
 ### link
----
-# Project Architecure
----
-
----
+# 👩‍💻Project Architecure
 # ✅Git Strategy
----
 ## front-end: Github Flow
-## back-end: 
----
-# Contributors
----
+## back-end: Github-Flow 
+# 🌈 Contributors 
 ### server : 이서현
 
 ### server: 양동선
