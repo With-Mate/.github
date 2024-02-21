@@ -22,10 +22,11 @@ Record and share your journey together with WithMate!
 <img width="540" alt="KakaoTalk_20240221_131629987" src="https://github.com/With-Mate/.github/assets/144695255/1bb55385-d734-46a7-9219-c6792b50d9e5">
 
 # ✅Git Strategy
-front-end: Github Flow
-back-end: Github-Flow 
 <img width="540" alt="clip1708495422558" src="https://github.com/With-Mate/.github/assets/127712094/cea1d6d4-d08b-407a-89dd-e857ee13d33c">
 
+
+front-end: Github Flow
+back-end: Github-Flow 
 
 # 🌈 Contributors 
 ### server : 이서현
