@@ -21,6 +21,8 @@ Record and share your journey together with WithMate!
 # 👩‍💻Project Architecure
 # ✅Git Strategy
 front-end: Github Flow
+
+
 back-end: Github-Flow 
 # 🌈 Contributors 
 ### server : 이서현
