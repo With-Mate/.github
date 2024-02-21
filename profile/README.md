@@ -4,17 +4,17 @@ This is especially true in Korea, the home country of our team.
 There are many goal management and study planner apps on the market, where the adverse effects of modern competition and comparative culture are maximized. 
 For example, one of the study time measurement apps in Korea is full of people who record nearly 20 hours of study time out of 24 hours. It makes them feel flogged and intimidated that they can't study for 20 hours. 
 Of course, as everyone knows, not being lazy just because you don't study for 20 hours out of 24 hours.
-<br/>
+<br/><br/>
 That's where we started with mate. 
-<br/>
+<br/><br/>
 We decided to solve the problem by taking into account the situation in which modern people are obsessed with the amount of goals and whether they succeed or fail in many goal management services on the market
-<br>
+<be><br/>
  WithMate is a 'journey record' site that allows you to focus on
 what you feel and learn in the 'process' of progressing your goals.
 It differs from the goal management app on the market, which
 focuses on whether or not the goal is successful, and how much
 time the goal has been done for a long time.
-<br/>
+<br/><br/>
 These are the two values of our service.
 Number one: Finding your own pace without comparing it to others.
 Number two: emphasizing the value of the journey, not success
