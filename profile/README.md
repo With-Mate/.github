@@ -16,8 +16,10 @@ focuses on whether or not the goal is successful, and how much
 time the goal has been done for a long time.
 <br/><br/>
 These are the two values of our service.
+<br/>
 Number one: Finding your own pace without comparing it to others.
-Number two: emphasizing the value of the journey, not success
+<br/>
+Number two: emphasizing the value of the journey(process), not success or fail
 and failure, which is contrary to the dichotomous thinking
 that focuses only on the outcome.
 WithMate supports your journey towards achieving goals and creates
