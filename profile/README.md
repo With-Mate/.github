@@ -38,15 +38,16 @@ Let's decorate our sticker board together, without competition with our mates!
 1) Enter the WithMate-Fe repository and copy the link
 <img width="775" alt="clip1708498256535" src="https://github.com/With-Mate/.github/assets/127712094/1b7bd00e-113f-4093-a32c-671a53c820e9">
 
-3) Open the terminal on your laptop
-4) enter git clone "link" command
-5) Go to your local WithMate-Fe folder: cd WithMate-Fe
-6) (Important) Go to the Withmate-Fe folder and enter the cd home command once more
-7) Command input: yarn dev 
-8) Done! Just go to the local link from 6 commands. Enjoy withmate!
+2) Open the terminal on your laptop
+3) enter git clone "link" command
+4) Go to your local WithMate-Fe folder: cd WithMate-Fe
+5) (Important) Go to the Withmate-Fe folder and enter the cd home command once more
+6) Command input: yarn dev 
+7) Done! Just go to the local link from 6 commands. Enjoy withmate!
 
 <img width="590" alt="clip1708497438408" src="https://github.com/With-Mate/.github/assets/127712094/14ad9ef0-23f5-450e-b03f-23f17c5ed71c">
-
+<br/>
+<br/>
 
 # 📽 Demo Video Link
 ### link
