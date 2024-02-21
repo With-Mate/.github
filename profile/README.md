@@ -14,6 +14,13 @@ valuable records with your mate.
 Share the value of the journey, convey positive inspiration,
 and WithMate will make your journey more meaningful.
 Record and share your journey together with WithMate!
+# 💡 How to use
+<img width="540" src="https://github.com/With-Mate/.github/assets/144695255/8c47611f-033e-4c96-9941-334b8f809857">
+<img width="540" src="https://github.com/With-Mate/.github/assets/144695255/9a9c6909-a53d-4724-8033-6e2e777ad18b">
+<img width="540" src="https://github.com/With-Mate/.github/assets/144695255/e6a9a93c-0a63-4909-8cc0-4f034339376318b">
+<img width="540" src="https://github.com/With-Mate/.github/assets/144695255/c9208a2b-00a0-4d06-b6bd-56e785385ee2">
+<img width="540" src="https://github.com/With-Mate/.github/assets/144695255/80945574-c67f-43a7-ae89-ff278e494b60">
+
 # ❗Execution Method
 ### vite 프로그램 
 # 📽 Demo Video Link
@@ -29,6 +36,7 @@ front-end: Github Flow
 
 
 back-end: Github-Flow 
+# 📁 ERD
 
 # 🌈 Contributors 
 ### server : 이서현
