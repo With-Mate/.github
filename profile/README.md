@@ -26,11 +26,11 @@ Record and share your journey together with WithMate!
 # 💡 How to use
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/84553423-04a7-4e11-9e5b-633ea354d508">
 
-
 ## First Page (Login Page) 
 A page containing the introduction of our site, its core values, and the flow of our site's use
 
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/16063cb0-70b4-463a-be76-a30af198d1b5">
+
 
 
 ## Match mate
