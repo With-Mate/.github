@@ -31,7 +31,18 @@ Let's decorate our sticker board together, without competition with our mates!
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/25ca1dff-ab31-4b01-aa8f-b8be0110e476">
 
 # ❗Execution Method
-### vite 프로그램 
+# Notification
+1) You can test it with your laptop
+# Test Method
+1) Enter the WithMate-Fe repository and copy the link
+2) Open the terminal on your laptop
+3) enter git clone "link" command
+4) Go to your local WithMate-Fe folder: cd WithMate-Fe
+5) (Important) Go to the Withmate-Fe folder and enter the cd home command once more
+6) Command input: yarn dev 
+7) Done! Just go to the local link from 6 commands. Enjoy withmate!
+
+
 # 📽 Demo Video Link
 ### link
 # 👩‍💻Project Architecure
