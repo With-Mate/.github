@@ -73,10 +73,10 @@ Let's decorate our sticker board together, without competition with our mates!
 # ✅Git Strategy : Github-flow
 <img width="540" alt="clip1708495422558" src="https://github.com/With-Mate/.github/assets/127712094/cea1d6d4-d08b-407a-89dd-e857ee13d33c">
 <be><br/>
-1) main branch -> feature branch
-2) Individuals work on feature branch derived from main. 
-3) After certain tasks are completed, the feature branch is merged into the main branch through a code review inside the team member.
-4) Pull the main branch from time to time, share the latest version of the main branch with everyone and start new work there
+1) main branch -> feature branch <br/>
+2) Individuals work on feature branch derived from main. <br/> 
+3) After certain tasks are completed, the feature branch is merged into the main branch through a code review inside the team member. <br/>
+4) Pull the main branch from time to time, share the latest version of the main branch with everyone and start new work there<br/>
 
 
 <br/><br/>
