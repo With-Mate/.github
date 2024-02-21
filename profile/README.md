@@ -91,6 +91,12 @@ Let's decorate our sticker board together, without competition with our mates!
 |Backend|[양동선](https://github.com/dongseon0)|
 |Backend|[이서현](https://github.com/seohyun-lee)|
 
+| Part | Name (github profile) |
+| ------------ | ------------- |
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
+
+
 <!--
 
 **Here are some ideas to get you started:**
