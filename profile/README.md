@@ -1,5 +1,4 @@
 # 📢 Introduction 
-## withmate 
 ---
  WithMate is a 'journey record' site that allows you to focus on
 what you feel and learn in the 'process' of progressing your goals.
