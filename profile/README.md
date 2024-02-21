@@ -1,4 +1,4 @@
-# 📢 00Introduction 
+# 📢 Introduction 
 ## withmate 
 ---
  WithMate is a 'journey record' site that allows you to focus on
