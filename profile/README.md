@@ -23,9 +23,10 @@ Record and share your journey together with WithMate!
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/70546974-8993-492b-bf99-913a2c845144">
 
 ## Register your stickers on our sticker board!
-## For a month's goal, each person can make six stickers each week Stickers are detailed goals to achieve the one-month goal
-## There's no area classification between you and your mate.
-## Let's decorate our sticker board together, without competition with our mates!
+For a month's goal, each person can make six stickers each week Stickers are detailed goals to achieve the one-month goal
+There's no area classification between you and your mate
+Let's decorate our sticker board together, without competition with our mates!
+
 <img width="506" alt="스크린샷 2024-02-21 153444" src="https://github.com/With-Mate/.github/assets/144695255/8b48d951-3ce3-4b94-b043-1629ce888225">
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/25ca1dff-ab31-4b01-aa8f-b8be0110e476">
 
