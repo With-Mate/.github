@@ -43,7 +43,7 @@ Let's decorate our sticker board together, without competition with our mates!
 
 <img width="506" alt="스크린샷 2024-02-21 153444" src="https://github.com/With-Mate/.github/assets/144695255/8b48d951-3ce3-4b94-b043-1629ce888225">
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/25ca1dff-ab31-4b01-aa8f-b8be0110e476">
-<br/><br/>
+<br/><br/><br/>
 
 # ❗Execution Method
 < Notification >
@@ -51,6 +51,7 @@ Let's decorate our sticker board together, without competition with our mates!
 
 < Execution Method >
 1) Enter the WithMate-Fe repository and copy the link
+   [go to WithMate-Fe repo](https://github.com/With-Mate/WithMate-FE)
 <img width="775" alt="clip1708498256535" src="https://github.com/With-Mate/.github/assets/127712094/1b7bd00e-113f-4093-a32c-671a53c820e9">
 
 2) Open the terminal on your laptop
