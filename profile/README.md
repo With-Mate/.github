@@ -26,32 +26,32 @@ Record and share your journey together with WithMate!
 # 💡 How to use
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/84553423-04a7-4e11-9e5b-633ea354d508">
 
-## First Page (Login Page) 
+## 0️⃣First Page (Login Page) 
 A page containing the introduction of our site, its core values, and the flow of our site's use
 
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/16063cb0-70b4-463a-be76-a30af198d1b5">
 
 
 
-## Match mate
+## 1️⃣Match mate
 Method in matchind mates
 If you enter your goals and categories and press the save button, you can recommend a mate with the same category as me. If you don't have a mate that you can recommend, press the Wait for Mate button. After pressing the Wait for Mate button, if you log in before the mate is matched, a notice appears saying you are waiting for the mate, and if it is matched, the mate appears on the home screen.
 
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/42748180-284b-4436-9af9-f4c4a3c94ff5">
 
 
-## Home
+## 2️⃣ Home
 After logging in, it connects directly to the home screen. This screen contains information about me and my opponent. You can re-mind your goals every time you enter the site by writing down the goals you want to achieve while traveling together. You can see the messages of support I sent to my opponent and the messages of support they sent me.
 
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/727363c9-5d05-45ab-9d76-b370f9c02632">
 
-## Manaing Mate
+## 3️⃣ Manaing Mate
 I count the days with my mate. You can check the message he sent me and change the message I send to him. You can also report your mate if he doesn't fill up the sticker for a long time or if the website is less accessible. If you report your mate, your mate relationship ends.
 
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/70546974-8993-492b-bf99-913a2c845144">
 
 
-## Register your stickers on our sticker board!
+## 4️⃣ Register your stickers on our sticker board!
 For a month's goal, each person can make six stickers each week Stickers are detailed goals to achieve the one-month goal
 There's no area classification between you and your mate
 Let's decorate our sticker board together, without competition with our mates!
