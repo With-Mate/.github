@@ -24,7 +24,7 @@ WithMate supports your journey towards achieving goals and creates
 valuable records with your mate.
 Share the value of the journey, convey positive inspiration,
 and WithMate will make your journey more meaningful.
-<br/>
+<br/><br/>
 Record and share your journey together with WithMate!
 <br/><br/>
 # 💡 How to use
