@@ -1,5 +1,7 @@
 # .github
 # 📢 Introduction 
+<img width="321" alt="스크린샷 2024-02-21 오후 2 53 45" src="https://github.com/With-Mate/.github/assets/78548833/146a24d0-0df1-4942-81fc-eeecd550ceed">
+
 ## withmate 
 ---
  WithMate is a 'journey record' site that allows you to focus on
