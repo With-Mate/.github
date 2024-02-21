@@ -8,7 +8,7 @@ Of course, as everyone knows, not being lazy just because you don't study for 20
 That's where we started WithMate. 
 <br/>
 We decided to solve the problem by taking into account the situation in which modern people are obsessed with the amount of goals and whether they succeed or fail in many goal management services on the market
-<br/>><br/>
+<br/><br/>
  WithMate is a 'journey record' site that allows you to focus on
 what you feel and learn in the 'process' of progressing your goals.
 It differs from the goal management app on the market, which
