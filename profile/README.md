@@ -85,13 +85,11 @@ Let's decorate our sticker board together, without competition with our mates!
 
 <br/><br/>
 # 🌈 Contributors 
-### server : 이서현
 
-### server: 양동선
-
-### client: 이윤서 
-
-### client: 박재현 
+|Frontend|[박재현](https://github.com/JaeHyun137)|
+|Frontend|[이윤서](https://github.com/dldbstj22)|
+|Backend|[양동선](https://github.com/dongseon0)|
+|Backend|[이서현](https://github.com/seohyun-lee)|
 
 <!--
 
