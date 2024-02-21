@@ -14,6 +14,7 @@ valuable records with your mate.
 Share the value of the journey, convey positive inspiration,
 and WithMate will make your journey more meaningful.
 Record and share your journey together with WithMate!
+<br/><br/>
 # 💡 How to use
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/84553423-04a7-4e11-9e5b-633ea354d508">
 
@@ -22,6 +23,7 @@ Record and share your journey together with WithMate!
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/727363c9-5d05-45ab-9d76-b370f9c02632">
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/70546974-8993-492b-bf99-913a2c845144">
 
+
 ## Register your stickers on our sticker board!
 For a month's goal, each person can make six stickers each week Stickers are detailed goals to achieve the one-month goal
 There's no area classification between you and your mate
@@ -29,6 +31,7 @@ Let's decorate our sticker board together, without competition with our mates!
 
 <img width="506" alt="스크린샷 2024-02-21 153444" src="https://github.com/With-Mate/.github/assets/144695255/8b48d951-3ce3-4b94-b043-1629ce888225">
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/25ca1dff-ab31-4b01-aa8f-b8be0110e476">
+<br/><br/>
 
 # ❗Execution Method
 < Notification >
@@ -53,6 +56,7 @@ Let's decorate our sticker board together, without competition with our mates!
 ### link
 # 👩‍💻Project Architecure
 <img width="540" alt="KakaoTalk_20240221_131629987" src="https://github.com/With-Mate/.github/assets/144695255/1bb55385-d734-46a7-9219-c6792b50d9e5">
+<br/><br/>
 
 # ✅Git Strategy
 <img width="540" alt="clip1708495422558" src="https://github.com/With-Mate/.github/assets/127712094/cea1d6d4-d08b-407a-89dd-e857ee13d33c">
@@ -62,10 +66,11 @@ front-end: Github Flow
 
 
 back-end: Github-Flow 
+<br/><br/>
 # 📁 ERD
 ![KakaoTalk_20240221_153834839](https://github.com/With-Mate/.github/assets/127712094/0c5ec312-220f-4c7b-8d59-47143ad88b26)
 
-<br/><br/><br/>
+<br/><br/>
 # 🌈 Contributors 
 ### server : 이서현
 
