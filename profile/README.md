@@ -70,14 +70,15 @@ Let's decorate our sticker board together, without competition with our mates!
 <img width="540" alt="KakaoTalk_20240221_131629987" src="https://github.com/With-Mate/.github/assets/144695255/1bb55385-d734-46a7-9219-c6792b50d9e5">
 <br/><br/>
 
-# ✅Git Strategy
+# ✅Git Strategy : Github-flow
 <img width="540" alt="clip1708495422558" src="https://github.com/With-Mate/.github/assets/127712094/cea1d6d4-d08b-407a-89dd-e857ee13d33c">
+<be><br/>
+1) main branch -> feature branch
+2) Individuals work on feature branch derived from main. 
+3) After certain tasks are completed, the feature branch is merged into the main branch through a code review inside the team member.
+4) Pull the main branch from time to time, share the latest version of the main branch with everyone and start new work there
 
 
-front-end: Github Flow
-
-
-back-end: Github-Flow 
 <br/><br/>
 # 📁 ERD
 ![KakaoTalk_20240221_153834839](https://github.com/With-Mate/.github/assets/127712094/0c5ec312-220f-4c7b-8d59-47143ad88b26)
