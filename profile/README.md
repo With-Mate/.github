@@ -5,7 +5,7 @@ There are many goal management and study planner apps on the market, where the a
 For example, one of the study time measurement apps in Korea is full of people who record nearly 20 hours of study time out of 24 hours. It makes them feel flogged and intimidated that they can't study for 20 hours. 
 Of course, as everyone knows, not being lazy just because you don't study for 20 hours out of 24 hours.
 <br/><br/>
-That's where we started with mate. 
+That's where we started WithMate. 
 <br/><br/>
 We decided to solve the problem by taking into account the situation in which modern people are obsessed with the amount of goals and whether they succeed or fail in many goal management services on the market
 <be><br/>
