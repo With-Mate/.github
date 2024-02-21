@@ -19,6 +19,8 @@ Record and share your journey together with WithMate!
 # 📽 Demo Video Link
 ### link
 # 👩‍💻Project Architecure
+<img width="986" alt="KakaoTalk_20240221_131629987" src="https://github.com/With-Mate/.github/assets/144695255/1bb55385-d734-46a7-9219-c6792b50d9e5">
+
 # ✅Git Strategy
 front-end: Github Flow
 back-end: Github-Flow 
