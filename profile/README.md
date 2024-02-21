@@ -50,8 +50,8 @@ Let's decorate our sticker board together, without competition with our mates!
 1) You can test it with your laptop
 
 < Execution Method >
-1) Enter the WithMate-Fe repository and copy the link
-   [go to WithMate-Fe repo](https://github.com/With-Mate/WithMate-FE)
+1) Enter the [WithMate-Fe](https://github.com/With-Mate/WithMate-FE) repository and copy the link
+ 
 <img width="775" alt="clip1708498256535" src="https://github.com/With-Mate/.github/assets/127712094/1b7bd00e-113f-4093-a32c-671a53c820e9">
 
 2) Open the terminal on your laptop
