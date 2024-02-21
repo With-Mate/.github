@@ -26,6 +26,8 @@ Record and share your journey together with WithMate!
 
 
 front-end: Github Flow
+
+
 back-end: Github-Flow 
 
 # 🌈 Contributors 
