@@ -15,9 +15,12 @@ Share the value of the journey, convey positive inspiration,
 and WithMate will make your journey more meaningful.
 Record and share your journey together with WithMate!
 # 💡 How to use
-<img width="540" src="https://github.com/With-Mate/.github/assets/144695255/1e64cbef-5cde-4ce1-b832-71c0dc5c8c36">
-
-
+<img width="540" src="https://github.com/With-Mate/.github/assets/144695255/84553423-04a7-4e11-9e5b-633ea354d508">
+<img width="540" src="https://github.com/With-Mate/.github/assets/144695255/16063cb0-70b4-463a-be76-a30af198d1b5">
+<img width="540" src="https://github.com/With-Mate/.github/assets/144695255/42748180-284b-4436-9af9-f4c4a3c94ff5">
+<img width="540" src="https://github.com/With-Mate/.github/assets/144695255/727363c9-5d05-45ab-9d76-b370f9c02632">
+<img width="540" src="https://github.com/With-Mate/.github/assets/144695255/70546974-8993-492b-bf99-913a2c845144">
+<img width="540" src="https://github.com/With-Mate/.github/assets/144695255/25ca1dff-ab31-4b01-aa8f-b8be0110e476">
 # ❗Execution Method
 ### vite 프로그램 
 # 📽 Demo Video Link
