@@ -3,7 +3,7 @@ Due to various ostentatious social media and competitive culture in modern socie
 <br/><br/>
 That's where we started WithMate. 
 <br/>
-Many people in modern society tend to focus only on how much extreme they spend on recording and whether their goals are successful or unsuccessful in setting and achieving goals. Also, many goal management services have a culture of competition and comparison that is excessively formed, making modern people suffer. By recognizing and solving these problems, we tried to make modern people set and achieve goals at a healthy and sustainable level, and in the process, we wanted to pay attention to growth and learning rather than success and failure of goals.
+Modern society tends to focus only on how much time is spent achieving goals and whether goals are successful or unsuccessful. Also, many goal management services have a culture of competition and comparison that is excessively formed, making modern people suffer. By recognizing and solving these problems, we tried to make modern people set and achieve goals at a healthy and sustainable level, and in the process, we wanted to pay attention to growth and learning rather than success and failure of goals.
 <br/><br/>
  WithMate is a 'journey record' site that allows you to focus on
 what you feel and learn in the 'process' of progressing your goals.
