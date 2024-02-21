@@ -1,6 +1,5 @@
 # 📢 Introduction 
 Due to various ostentatious social media and competitive culture in modern society, modern people feel anxiety, coercion, and relative deprivation. This is especially true in Korea, the home country of our team. There are many goal management and study planner apps on the market, where the adverse effects of modern competition and comparative culture are maximized. For example, one of the study time measurement apps in Korea is full of people who record nearly 20 hours of study time out of 24 hours. It makes users feel flogged and intimidated that they can't study for 20 hours. Of course, as everyone knows, not being lazy just because you don't study for 20 hours out of 24 hours.
-
 <br/><br/>
 That's where we started WithMate. 
 <br/>
