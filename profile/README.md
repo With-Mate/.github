@@ -33,6 +33,7 @@ Let's decorate our sticker board together, without competition with our mates!
 # ❗Execution Method
 < Notification >
 1) You can test it with your laptop
+
 < Execution Method >
 1) Enter the WithMate-Fe repository and copy the link
 2) Open the terminal on your laptop
