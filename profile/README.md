@@ -1,5 +1,3 @@
-## Hi there 👋
-# .github
 # 📢 Introduction 
 ## withmate 
 ---
