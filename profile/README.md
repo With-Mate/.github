@@ -90,7 +90,7 @@ Let's decorate our sticker board together, without competition with our mates!
 
 | Part | Name (github profile) |
 | ------------ | ------------- |
-| Frontend | | [박재현](https://github.com/JaeHyun137)  |
+| Frontend | [박재현](https://github.com/JaeHyun137)  |
 | Frontend | [이윤서](https://github.com/dldbstj22)  |
 |Backend|[양동선](https://github.com/dongseon0)|
 |Backend|[이서현](https://github.com/seohyun-lee)|
