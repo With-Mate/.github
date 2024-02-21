@@ -2,7 +2,7 @@
 # 📢 Introduction 
 ## withmate 
 ---
- ### WithMate is a 'journey record' site that allows you to focus on
+ WithMate is a 'journey record' site that allows you to focus on
 what you feel and learn in the 'process' of progressing your goals.
 It differs from the goal management app on the market, which
 focuses on whether or not the goal is successful, and how much
@@ -18,7 +18,7 @@ Share the value of the journey, convey positive inspiration,
 and WithMate will make your journey more meaningful.
 Record and share your journey together with WithMate!
 ---
-#❗ Execution Method
+#❗Execution Method
 ---
 ### vite 프로그램 
 ---
@@ -28,7 +28,7 @@ Record and share your journey together with WithMate!
 ---
 # Project Architecure
 ---
-##image
+
 ---
 # ✅Git Strategy
 ---
