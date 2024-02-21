@@ -19,9 +19,7 @@ These are the two values of our service.
 <br/>
 Number one: Finding your own pace without comparing it to others.
 <br/>
-Number two: emphasizing the value of the journey(process), not success or fail
-and failure, which is contrary to the dichotomous thinking
-that focuses only on the outcome.
+Number two: emphasizing the value of the journey(process), not success and failure, which is contrary to the dichotomous thinking that focuses only on the outcome. <br/>
 WithMate supports your journey towards achieving goals and creates
 valuable records with your mate.
 Share the value of the journey, convey positive inspiration,
