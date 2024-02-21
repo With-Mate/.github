@@ -63,7 +63,9 @@ front-end: Github Flow
 
 back-end: Github-Flow 
 # 📁 ERD
+![KakaoTalk_20240221_153834839](https://github.com/With-Mate/.github/assets/127712094/0c5ec312-220f-4c7b-8d59-47143ad88b26)
 
+<br/><br/><br/>
 # 🌈 Contributors 
 ### server : 이서현
 
