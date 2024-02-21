@@ -50,9 +50,9 @@ Let's decorate our sticker board together, without competition with our mates!
 1) You can test it with your laptop
 
 < Execution Method >
-1) Enter the [WithMate-Fe](https://github.com/With-Mate/WithMate-FE) repository and copy the link
+1) Enter the [WithMate-Fe](https://github.com/With-Mate/WithMate-FE) repository and copy the link (Link in the yellow painted part of the picture)
  
-<img width="775" alt="clip1708498256535" src="https://github.com/With-Mate/.github/assets/127712094/1b7bd00e-113f-4093-a32c-671a53c820e9">
+<img width="775" alt="KakaoTalk_20240221_155056654" src="https://github.com/With-Mate/.github/assets/127712094/add7d94a-c5e9-40c9-98ec-3fdca3193076">
 
 2) Open the terminal on your laptop
 3) enter command : git clone "copy link" 
