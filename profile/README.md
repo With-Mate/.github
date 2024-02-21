@@ -6,7 +6,7 @@ For example, one of the study time measurement apps in Korea is full of people w
 Of course, as everyone knows, not being lazy just because you don't study for 20 hours out of 24 hours.
 <br/><br/>
 That's where we started WithMate. 
-<br/><br/>
+<br/>
 We decided to solve the problem by taking into account the situation in which modern people are obsessed with the amount of goals and whether they succeed or fail in many goal management services on the market
 <be><br/>
  WithMate is a 'journey record' site that allows you to focus on
