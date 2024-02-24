@@ -81,7 +81,7 @@ Let's decorate our sticker board together, without competition with our mates!
 <br/>
 
 # 📽 Demo Video Link
-### link
+https://www.youtube.com/watch?v=mue96qQkj40
 # 👩‍💻Project Architecure
 <img width="540" alt="KakaoTalk_20240221_131629987" src="https://github.com/With-Mate/.github/assets/144695255/1bb55385-d734-46a7-9219-c6792b50d9e5">
 <br/><br/>
