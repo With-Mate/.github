@@ -28,7 +28,8 @@ Record and share your journey together with WithMate!
 
 ## 0️⃣First Page (Login Page) 
 A page containing the introduction of our site, its core values, and the flow of our site's use
-<br/><br/><br/>
+<br/><br/><br/><br/>
+
 
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/16063cb0-70b4-463a-be76-a30af198d1b5">
 
@@ -37,18 +38,18 @@ A page containing the introduction of our site, its core values, and the flow of
 ## 1️⃣Match mate
 Method in matching mates
 If you enter your goal and category and press the save button, the site recommend a mate with the same category as you. If the site do not recommend a mate, you can press the Wait for Mate button. After pressing the Wait for Mate button, if you log in before the mate is matched, a notice appears saying you are waiting for the mate, and if it is matched, the mate appears on the home screen.
-
+<br/><br/><br/><br/>
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/42748180-284b-4436-9af9-f4c4a3c94ff5">
 
 
 ## 2️⃣ Home
 After logging in, it connects directly to the home screen. This screen contains information about me and my opponent. You can remind your goal every time you enter the site by writing down the goal you want to achieve while traveling together. You can see the messages of support I sent to my opponent and the messages of support they sent me.
-
+<br/><br/><br/><br/>
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/727363c9-5d05-45ab-9d76-b370f9c02632">
 
 ## 3️⃣ Manaing Mate
 The site counts the date you started with your mate. You can check the message he sent me and change the message I send to him. You can also report your mate if he doesn't fill up the sticker for a long time or if he doesn't use the website very well. If you report your mate, your mate relationship ends.
-
+<br/><br/><br/><br/>
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/70546974-8993-492b-bf99-913a2c845144">
 
 
