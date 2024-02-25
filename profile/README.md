@@ -62,7 +62,9 @@ Let's decorate our sticker board together, without competition with our mates!
 ## 5️⃣ Enter your notes and feelings(lessons) for individual stickers
 In the memo section, you can enter details about the stickers. For example, you can put a link to a stretching video in the memo section of the "Stretch Before You Sleep" sticker.<br/> In the impression section, you can write down what you felt, what you learned, what you grew up in the process of progressing your goals. Through this, you can experience a healthy pursuit of goals by focusing on growth in the process, not on success or failure of goals!
 <br/><br/><br/><br/><br/><br/>
+
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/25ca1dff-ab31-4b01-aa8f-b8be0110e476">
+## 6️⃣ My profile
 <br/><br/><br/>
 
 # ❗Execution Method
