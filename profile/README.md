@@ -64,7 +64,10 @@ In the memo section, you can enter details about the stickers. For example, you 
 <br/><br/><br/><br/><br/><br/>
 
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/25ca1dff-ab31-4b01-aa8f-b8be0110e476">
+
 ## 6️⃣ My profile
+Don't be sad that the stickers on your target screen have been reset after a week! You can see all the journeys you've made so far on my profile page
+
 <br/><br/><br/>
 
 # ❗Execution Method
