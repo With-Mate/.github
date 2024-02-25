@@ -59,6 +59,8 @@ There's no area classification between you and your mate
 Let's decorate our sticker board together, without competition with our mates!
 <br/><br/><br/><br/><br/><br/>
 <img width="506" alt="스크린샷 2024-02-21 153444" src="https://github.com/With-Mate/.github/assets/144695255/8b48d951-3ce3-4b94-b043-1629ce888225">
+## 5️⃣ Enter your notes and feelings(lessons) for individual stickers
+In the memo section, you can enter details about the stickers. For example, you can put a link to a stretching video in the memo section of the "Stretch Before You Sleep" sticker.<br/> In the impression section, you can write down what you felt, what you learned, what you grew up in the process of progressing your goals. Through this, you can experience a healthy pursuit of goals by focusing on growth in the process, not on success or failure of goals!
 <br/><br/><br/><br/><br/><br/>
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/25ca1dff-ab31-4b01-aa8f-b8be0110e476">
 <br/><br/><br/>
