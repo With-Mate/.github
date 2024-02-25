@@ -28,6 +28,7 @@ Record and share your journey together with WithMate!
 
 ## 0️⃣First Page (Login Page) 
 A page containing the introduction of our site, its core values, and the flow of our site's use
+<br/><br/><br/>
 
 <img width="540" src="https://github.com/With-Mate/.github/assets/144695255/16063cb0-70b4-463a-be76-a30af198d1b5">
 
